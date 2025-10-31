@@ -23,9 +23,9 @@ Backend: Node.js, Express.js (planned MongoDB integration)
 Tools & Platforms: Git, GitHub, Netlify, Figma
 
 📁 Project Structure
-├── public/              # Static assets
-├── src/                 # React components and source files
-├── index.html           # Application entry point
-├── package.json         # Project dependencies and scripts
-├── vite.config.js       # Vite configuration
-└── README.md            # Documentation
+├── public/              
+├── src/                 
+├── index.html           
+├── package.json         
+├── vite.config.js       
+└── README.md           
