@@ -1,56 +1,31 @@
-# 🚀 MIT Hackathon 2025 – City Reporter  
+ 🌆 City Reporter
 
-An innovative **community issue reporting platform** built during **MIT Mysuru HackVerse 2025**, where our team secured **2nd Place among 140+ teams**.  
+City Reporter is a web platform that allows citizens to report civic issues in real-time, helping local communities and authorities collaborate more efficiently to resolve problems.
 
-City Reporter enables citizens to **report local issues in real-time**, making it easier for communities and authorities to collaborate effectively.  
+🌟 Key Features
 
----
+📝 Issue Reporting – Submit complaints with detailed descriptions and geolocation.
 
-## 🌟 Features  
-- 📝 **Report Issues** – Submit complaints with details and location.  
-- 📍 **Location Tracking** – Pinpoint exact locations for better resolution.  
-- 💬 **Community Engagement** – Comment and discuss reported issues.  
-- 📊 **Admin Dashboard** – Manage, verify, and resolve issues efficiently.  
-- 📱 **Responsive UI** – Optimized for mobile and desktop devices.  
+📍 Live Location Tracking – Mark the exact area of concern for quick identification.
 
----
+💬 Community Interaction – Engage in discussions and comments on reported issues.
 
-## 🛠️ Tech Stack  
-- **Frontend:** React.js, Vite, Tailwind CSS, Framer Motion  
-- **Backend:** Node.js, Express.js *(future scope: integration with MongoDB)*  
-- **Other Tools:** Git, GitHub, Netlify, Figma  
+📊 Admin Panel – View, verify, and manage citizen reports for faster action.
 
----
+📱 Responsive Design – Works seamlessly across desktop and mobile devices.
 
-## 📂 Project Structure  
-MIT-Hackathon-2025
-├── public/ # Static assets
-├── src/ # React source code
-├── index.html # Entry point
-├── package.json # Dependencies
-├── vite.config.js # Vite configuration
-└── README.md # Documentation
+🛠️ Technology Stack
 
+Frontend: React.js, Vite, Tailwind CSS, Framer Motion
 
----
+Backend: Node.js, Express.js (planned MongoDB integration)
 
-## 🚀 Getting Started  
+Tools & Platforms: Git, GitHub, Netlify, Figma
 
-### Prerequisites  
-- Node.js >= 16  
-- npm or yarn  
-
-### Installation  
-```bash
-# Clone the repository
-git clone https://github.com/Ujjwalrai01/MIT-Hackathon-2025.git
-
-# Navigate to project directory
-cd MIT-Hackathon-2025/MIT-2025
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
+📁 Project Structure
+├── public/              # Static assets
+├── src/                 # React components and source files
+├── index.html           # Application entry point
+├── package.json         # Project dependencies and scripts
+├── vite.config.js       # Vite configuration
+└── README.md            # Documentation
